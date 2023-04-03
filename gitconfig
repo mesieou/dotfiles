@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mesieou@gmail.com
+	name = juan bernal
